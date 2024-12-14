@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais - 2024-11-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anglais - 2024-11-19"
-            }
-          },
-          {
-            "id": "440079ade9a780dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Cours/Algo/Algo - 2024-09-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Algo - 2024-09-23"
-            }
-          },
-          {
-            "id": "966e081fc521aef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conception de projet info 2024-11-18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conception de projet info 2024-11-18"
             }
           },
           {
@@ -73,8 +45,7 @@
               "title": "Release Notes 1.7.4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,17 +117,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture réseau 2024-11-04.md",
+                "file": "Cours/Algo/Algo - 2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Architecture réseau 2024-11-04"
+              "title": "Rétrolien pour Algo - 2024-09-23"
             }
           },
           {
@@ -165,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture réseau 2024-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Architecture réseau 2024-11-04"
+              "title": "Liens sortants"
             }
           },
           {
@@ -191,19 +161,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architecture réseau 2024-11-04.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Plan de Architecture réseau 2024-11-04"
+              "title": "Plan"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,14 +182,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "440079ade9a780dc",
+  "active": "8bcb325ec89ff691",
   "lastOpenFiles": [
-    "Cours/Algo/Algo - 2024-09-24.md",
-    "Cours/Algo/Algo - 2024-09-23.md",
     "Cours/Module A/Séance 2.md",
     "Cours/Module A/Séance 1.md",
-    "Cours/Windows Serveur Avancé/Windows Serveur avancé 2024-10-15.md",
+    "Cours/Architecture réseaux/Architecture réseaux - 2024-12-11.md",
+    "Cours/Windows Serveur Avancé/Windows Serveur avancé - 2024-12-10.md",
+    "Cours/Windows Serveur Avancé/Windows Serveur - 2024-12-09.md",
     "2024-09-24.md",
+    "Cours/Architecture réseaux/Architecture réseau 2024-11-04.md",
+    "Cours/Architecture réseaux/Architecture réseaux 2024-11-05.md",
+    "Cours/Linux/Linux 2024-11-25.md",
+    "Cours/Algo/Algo - 2024-09-23.md",
+    "Cours/Algo/Algo - 2024-09-24.md",
+    "Cours/Windows Serveur Avancé/Windows Serveur avancé 2024-10-15.md",
     "Cours/Windows Serveur Avancé",
     "Cours/Windows Client Avancé",
     "Cours/Linux",
@@ -233,10 +206,7 @@
     "Cours/Cloud",
     "Cours/Architecture réseaux",
     "Cours/Anglais",
-    "Cours/Architecture réseaux/Architecture réseau 2024-11-04.md",
-    "Cours/Linux/Linux 2024-11-25.md",
     "Cours/Windows Client Avancé/Windows Client Avancé 2024-11-20.md",
-    "Cours/Architecture réseaux/Architecture réseaux 2024-11-05.md",
     "Cours/Anglais/Anglais - 2024-11-19.md",
     "Cours/Anglais/Anglais 2024-11-13.md",
     "Cours/Conception de projet informatique/Conception de projet info 2024-11-18.md",
@@ -254,10 +224,7 @@
     "Cours/Gestion de parc informatique/Gestion de parc informatique - 2024-09-25.md",
     "Pasted image 20241007104953.png",
     "Cours/Gestion de parc informatique/Gestion de parc informatique - 2024-10-02.md",
-    "Cours/Conception de projet informatique/Projet informatique - 2024-09-30.md",
-    "README.md",
     "Pasted image 20240930162627.png",
-    "Pasted image 20240930160738.png",
-    "Cours/Recherche de stage/Recherche de stage - 2024-09-30.md"
+    "Pasted image 20240930160738.png"
   ]
 }
