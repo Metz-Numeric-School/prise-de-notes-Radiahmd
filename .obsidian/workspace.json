@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Windows Client Avancé 2025-01-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Client Avancé 2025-01-08"
+            }
+          },
+          {
+            "id": "a69f4ed65b171778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Cours/Algo/Algo - 2024-09-23.md",
                 "mode": "source",
                 "source": false
@@ -45,7 +59,8 @@
               "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +79,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -117,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/Algo - 2024-09-23.md",
+                "file": "Supervision - 2025-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Algo - 2024-09-23"
+              "title": "Rétrolien pour Supervision - 2025-01-14"
             }
           },
           {
@@ -170,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,49 +199,52 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8bcb325ec89ff691",
+  "active": "a69f4ed65b171778",
   "lastOpenFiles": [
+    "Cours/Sécurisation des infrastructures réseaux/Sécurisation des infrastructures réseaux - 2025-03-05.md",
+    "Pasted image 20250305105759.png",
+    "Pasted image 20250305104659.png",
+    "Pasted image 20250305095618.png",
+    "Pasted image 20250305095514.png",
+    "Cours/Sécurisation des infrastructures réseaux/Sécurisation des infrastructures réseaux 2025-03-04.md",
+    "Cours/Sécurisation informatique/Sécurité - 2025-03-03.md",
+    "Cours/Sécurité des systèmes/Sécurité des systèmes - 2025-01-29.md",
+    "Pasted image 20250304164908.png",
+    "Cours/Sécurisation des infrastructures réseaux",
+    "Cours/Sécurisation informatique/Sécurisation - 2025-01-21.md",
+    "Cours/Sécurité des systèmes",
+    "Cours/Accompagnement à la recherche de stage",
+    "Cours/Supervision",
+    "Cours/Sécurisation informatique",
+    "Cours/Sécurisation informatique/Sécurisation - 2025-01-20.md",
+    "Cours/Accompagnement à la recherche de stage/Accompagnement à la recherche de stage - 2025-01-22.md",
+    "Cours/Linux/Linux avancé - 2025-02-26.md",
+    "Cours/Linux/Linux avancé - 2025-02-25.md",
+    "Pasted image 20250129103033.png",
+    "Pasted image 20250129102928.png",
+    "Pasted image 20250129095646.png",
+    "Capture d'écran 2025-01-29 092924.png",
+    "Pasted image 20250129094921.png",
+    "Cours/Windows Serveur Avancé/Windows Serveur Avancé - 2025-01-27.md",
+    "Cours/Culture juridique/Culture juridique - 2025-01-22.md",
+    "Cours/Supervision/Supervision - 2025-01-14.md",
+    "Cours/Windows Client Avancé/Windows Client Avancé 2025-01-08.md",
+    "Cours/Architecture réseaux/Architecture réseaux 2025-01-07.md",
+    "Cours/Architecture réseaux/Architecture réseaux 2025-01-06.md",
+    "Cours/Architecture réseaux/Architecture réseaux - 2024-12-11.md",
+    "Cours/Architecture réseaux/Architecture réseau 2024-11-04.md",
+    "Cours/Architecture réseaux/Architecture réseaux 2024-11-05.md",
+    "Cours/Algo/Algo - 2024-09-23.md",
     "Cours/Module A/Séance 2.md",
     "Cours/Module A/Séance 1.md",
-    "Cours/Architecture réseaux/Architecture réseaux - 2024-12-11.md",
     "Cours/Windows Serveur Avancé/Windows Serveur avancé - 2024-12-10.md",
     "Cours/Windows Serveur Avancé/Windows Serveur - 2024-12-09.md",
     "2024-09-24.md",
-    "Cours/Architecture réseaux/Architecture réseau 2024-11-04.md",
-    "Cours/Architecture réseaux/Architecture réseaux 2024-11-05.md",
     "Cours/Linux/Linux 2024-11-25.md",
-    "Cours/Algo/Algo - 2024-09-23.md",
-    "Cours/Algo/Algo - 2024-09-24.md",
-    "Cours/Windows Serveur Avancé/Windows Serveur avancé 2024-10-15.md",
     "Cours/Windows Serveur Avancé",
     "Cours/Windows Client Avancé",
     "Cours/Linux",
     "Cours/Gestion de parc informatique",
-    "Cours/Culture juridique",
-    "Cours/Recherche de stage",
-    "Cours/Conception de projet informatique",
-    "Cours/Cloud",
-    "Cours/Architecture réseaux",
-    "Cours/Anglais",
-    "Cours/Windows Client Avancé/Windows Client Avancé 2024-11-20.md",
-    "Cours/Anglais/Anglais - 2024-11-19.md",
-    "Cours/Anglais/Anglais 2024-11-13.md",
-    "Cours/Conception de projet informatique/Conception de projet info 2024-11-18.md",
-    "Cours/Anglais/Anglais 2024-11-12.md",
-    "Cours/Conception de projet informatique/Projet informatique 2024-11-06.md",
-    "Pasted image 20241104160832.png",
-    "Cours/Cloud/Cloud - 2024-10-08.md",
-    "Cours/Cloud/Cloud - 2024-10-07.md",
-    "Cours/Anglais/Anglais - 2024-10-14.md",
-    "Cours/Anglais/Anglais - 2024-10-09.md",
-    "Cours/Culture juridique/Culture juridique - 2024-10-09.md",
-    "Pasted image 20241009094238.png",
-    "Pasted image 20241008104533.png",
-    "Cours/Gestion de parc informatique/Gestion de parc informatique - 2024-10-01.md",
-    "Cours/Gestion de parc informatique/Gestion de parc informatique - 2024-09-25.md",
-    "Pasted image 20241007104953.png",
-    "Cours/Gestion de parc informatique/Gestion de parc informatique - 2024-10-02.md",
-    "Pasted image 20240930162627.png",
-    "Pasted image 20240930160738.png"
+    "Cours/Culture juridique"
   ]
 }
